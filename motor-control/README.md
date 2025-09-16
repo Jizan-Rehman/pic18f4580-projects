@@ -29,7 +29,7 @@ The project was written in **Embedded C** (MPLAB) and simulated in **Proteus 8**
 ---
 
 ## 🔌 Circuit Diagram
-![Proteus Schematic](proteus-schematic.jpg)
+![Proteus Schematic](proteus-schematic.JPG)
 ![circuit diagram](motor_control.pdsprj)
 
 ---
