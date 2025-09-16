@@ -13,9 +13,6 @@ The project was written in **Embedded C** (MPLAB) and simulated in **Proteus 8**
 ---
 
 ## 🛠️ Tools & Software
-- **Microcontroller**: PIC18F4580  
-- **Motor Driver**: L293D  
-- **Display**: 16x2 LCD (LM016L)  
 - **IDE**: MPLAB (XC8 compiler)  
 - **Simulator**: Proteus 8 Professional  
 
