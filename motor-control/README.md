@@ -24,7 +24,7 @@ The project was written in **Embedded C** (MPLAB) and simulated in **Proteus 8**
 ## 📂 Files in This Project
 - `motor_control.c` → Source code  
 - `motor_control.pdsprj` → Proteus project file  
-- `proteus-schematic.png` → Circuit schematic (exported from Proteus)  
+- `proteus-schematic.JPG` → Circuit schematic (exported from Proteus)  
 
 ---
 
